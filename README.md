@@ -2,6 +2,7 @@ This is a template project setup with the references/dependencies for modding th
 
 Includes:
  - Stubbed and fully publicized assemblies for UnityEngine, Mirror API and the game's Assembly.
+ - Generated Monomod RuntimeDetour event hooks.
  - Configured .gitignore.
  - [BepInEx.Extensions](https://github.com/MapleWheels/BepInEx_Extensions) configuration.
  - Setup for use with [BepInEx 5.4.x](https://github.com/BepInEx/BepInEx).
