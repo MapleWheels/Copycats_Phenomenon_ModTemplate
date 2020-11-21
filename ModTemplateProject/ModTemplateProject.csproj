@@ -61,8 +61,8 @@
     <Reference Include="Mirror.refstub">
       <HintPath>..\Libs\Mirror.refstub.dll</HintPath>
     </Reference>
-    <Reference Include="MMHOOK_Assembly-CSharp">
-      <HintPath>..\Libs\MMHOOK_Assembly-CSharp.dll</HintPath>
+    <Reference Include="MMHOOK_Assembly-CSharp.refstub">
+      <HintPath>..\Libs\MMHOOK_Assembly-CSharp.refstub.dll</HintPath>
     </Reference>
     <Reference Include="Mono.Cecil">
       <HintPath>..\Libs\Mono.Cecil.dll</HintPath>
